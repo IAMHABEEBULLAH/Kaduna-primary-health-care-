@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Kaduna Primary Health Care Centre",
+  "description": "A modern, accessible healthcare website for the Kaduna community, featuring appointment booking, health education, and maternal care focus.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
